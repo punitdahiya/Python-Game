@@ -1,5 +1,5 @@
 # Game-using-python
-Implementation of chess in python language in which 2 players can play this game. Using "R" key we can undo this game and "Q" the game ends in between. There is 2 Classes in code.
+Implementation of chess in python language in which 2 players can play this game. Using "R" key we will undo steps and "Q" the game ends in between. There is 2 Classes in code.
 1. One is GameState() which will store the positions of the pieces. 
     a. It has changePosition() function which will change the position of the pieces as per request. 
     undoSteps() will undo to the previous state. 
